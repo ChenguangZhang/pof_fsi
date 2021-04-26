@@ -1,2 +1,4 @@
 # simple_fsi_code
-Simple analytical fluid-structure interaction problems solved in Python
+Simple analytical fluid-structure interaction problems solved in Python.
+
+To be updated.
