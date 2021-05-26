@@ -1,4 +1,2 @@
-# simple_fsi_code
-Simple analytical fluid-structure interaction problems solved in Python.
-
-To be updated.
+# Summary
+Simple finite difference calculation of several FSI (fluid-structure interaction) problems. They are used to validate the analytical solutions (more on that later).
